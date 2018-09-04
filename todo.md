@@ -1,0 +1,8 @@
+- [ ] Home
+- [ ] Keyboards
+- [ ] News
+    - [ ] First news page
+- [ ] Builds
+    - [ ] Speedo Build
+- [ ] About
+- [ ] Contact
