@@ -7,8 +7,12 @@
 
         {{- partial "header.html" . -}}
 
-        <div id="content">
-            {{- block "main" . -}}{{- end -}}
+        <div class="outer-content-container">
+            <div class="content-container">
+                <div class="inner-content-container">
+                    {{- block "main" . -}}{{- end -}}
+                </div>
+            </div>
         </div>
 
         {{- partial "footer.html" . -}}

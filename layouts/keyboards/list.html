@@ -1,0 +1,22 @@
+{{- define "main" -}}
+
+    {{- .Content -}}
+
+    <div style="width:100%;display:flex;justify-content:center;flex-wrap:wrap;">
+
+        {{- range .Pages -}}
+
+            <div class="card" style="width: 22rem; margin: 10px;">
+                <a href="{{- .URL -}}"><img class="card-img-top" src="{{- .Params.thumbnail -}}" alt="{{- .Title -}}"></a>
+                <div class="card-body">
+                    <h5 class="card-title">{{- .Title -}}</h5>
+                    <p class="card-text">{{- .Params.summary -}}</p>
+                    <a href="{{- .URL -}}" class="btn btn-primary">Learn More</a>
+                </div>
+            </div>
+
+        {{- end -}}
+
+    </div>
+
+{{- end -}}
