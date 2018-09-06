@@ -1,25 +1,25 @@
 ---
-title: "Ergo87"
+title: "Bloomer"
 date: 2018-09-04T06:40:05-07:00
 draft: true
 navActive: "keyboards"
 categories: ["keyboard"]
 summary: "An 87 key ergonomic keyboard"
-thumbnail: "http://assets.cozykeys.xyz/keyboards/ergo87_360x270.jpg"
+thumbnail: "http://assets.cozykeys.xyz/images/keyboards/bloomer_360x270.jpg"
 ---
 
-# Ergo87
+# Bloomer
 
-The Ergo87 is an 87-key ergonomic keyboard, inspired by the Atreus and
+The Bloomer is an 87-key ergonomic keyboard, inspired by the Atreus and
 Atreus62. There are a few main goals behind the keyboard listed below.
 
-<a href="http://assets.cozykeys.xyz/keyboards/ergo87_1600x1200.jpg">
-    <img style="width:100%;" src="http://assets.cozykeys.xyz/keyboards/ergo87_800x600.jpg" alt="Ergo87">
+<a href="http://assets.cozykeys.xyz/images/keyboards/bloomer_1600x1200.jpg">
+    <img style="width:100%;" src="http://assets.cozykeys.xyz/images/keyboards/bloomer_800x600.jpg" alt="Bloomer">
 </a>
 
 ## Easier Adaptation
 
-The first goal of the Ergo87 is to provide an ergonomic option that is less
+The first goal of the Bloomer is to provide an ergonomic option that is less
 intimidating to those who are considering an ergonomic layout. Many of the
 ergonomic or ortholinear options currently available are not easy to adapt to.
 
@@ -34,7 +34,7 @@ reduction in keys is the more off-putting aspect. For those used to full-sized
 or TKL layouts, it can be hard to imagine using a keyboard without dedicated
 function keys, home, end, etc.
 
-The Ergo87 was intentionally designed such that it retains the 87 key count
+The Bloomer was intentionally designed such that it retains the 87 key count
 that a TKL layout would have. It is also not split, as is the case with
 keyboards like the Iris. Unfortunately, having a single piece renders tenting
 impossible; however, it does make the keyboard less difficult to adapt to,
@@ -42,11 +42,11 @@ as the user only needs to familiarize with the column-staggered keys. Lastly,
 it maintains a size very similar to a TKL keyboard as is shown in the picture
 below.
 
-TODO: Insert an image here with a comparison of a TKL to the Ergo87.
+TODO: Insert an image here with a comparison of a TKL to the Bloomer.
 
 ## Improved Ergonomics
 
-While the Ergo87 is still a less ergonomic option than some of the more extreme
+While the Bloomer is still a less ergonomic option than some of the more extreme
 layouts, it still introduces some improvements to the layouts that it was
 inspired by, namely the Atreus and Atreus62.
 
@@ -61,7 +61,7 @@ only seen in split keyboards.
 
 Having used an Atreus62 as my daily driver for over a year, the biggest
 complaint I had was the inner-most thumb keys, which I find to be uncomfortably
-placed. The Ergo87 moves these keys to a spot that is much easier to press
+placed. The Bloomer moves these keys to a spot that is much easier to press
 comfortably without moving the entire hand.
 
 TODO: Insert an image here with a comparison to the Atreus62 of width between
@@ -70,7 +70,7 @@ key wells and thumb placement.
 ## Dedicated Keys
 
 I am one of the few mechanical keyboard enthusiasts who transitioned to a
-smaller layout and then decided to transition back. Even with the Ergo87
+smaller layout and then decided to transition back. Even with the Bloomer
 layout, I still retain a lower layer in which my TKL keys are accessible via
 keys closer to the home row. That said, I found there to be several cases where
 using layers was a pain.
@@ -92,10 +92,17 @@ difficult to train myself to press via muscle memory.
 
 I was able to get by with both an Iris and an Atreus62 as a daily driver;
 however, it's been nice to have dedicated keys again. I still use layers the
-majority of the time but the Ergo87 provides a fallback option in cases where I
+majority of the time but the Bloomer provides a fallback option in cases where I
 prefer it.
 
 ## Open Source
 
-TODO: Write this section
+As with all of the CozyKeys projects, the Speedo is and will remain completely
+open source. This means that the same design files I use to get the parts
+manufactured will be available on GitHub.
+
+The goal behind this is to allow other enthusiasts to fork and modify the
+designs to their own liking. Pull requests are also happily accepted!
+
+Check out the [Bloomer GitHub repository](https://github.com/cozykeys/Bloomer)!
 
