@@ -5,7 +5,7 @@ draft: true
 navActive: "keyboards"
 categories: ["keyboard"]
 summary: "A 66 key ergonomic keyboard"
-thumbnail: "http://assets.cozykeys.xyz/keyboards/Speedo.jpg"
+thumbnail: "http://assets.cozykeys.xyz/keyboards/speedo_360x270.jpg"
 ---
 
 # Speedo
@@ -19,7 +19,7 @@ esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
 occaecat cupidatat non proident, sunt in culpa qui officia
 deserunt mollit anim id est laborum.
 
-<a href="http://assets.cozykeys.xyz/keyboards/Speedo.jpg">
-    <img style="width:100%;" src="http://assets.cozykeys.xyz/keyboards/Speedo.jpg" alt="Speedo">
+<a href="http://assets.cozykeys.xyz/keyboards/speedo_1600x1200.jpg">
+    <img style="width:100%;" src="http://assets.cozykeys.xyz/keyboards/speedo_800x600.jpg" alt="Speedo">
 </a>
 

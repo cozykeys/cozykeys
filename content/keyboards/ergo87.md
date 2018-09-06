@@ -5,7 +5,7 @@ draft: true
 navActive: "keyboards"
 categories: ["keyboard"]
 summary: "An 87 key ergonomic keyboard"
-thumbnail: "http://assets.cozykeys.xyz/keyboards/Ergo87.jpg"
+thumbnail: "http://assets.cozykeys.xyz/keyboards/ergo87_360x270.jpg"
 ---
 
 # Ergo87
@@ -19,7 +19,7 @@ esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
 occaecat cupidatat non proident, sunt in culpa qui officia
 deserunt mollit anim id est laborum.
 
-<a href="http://assets.cozykeys.xyz/keyboards/Ergo87.jpg">
-    <img style="width:100%;" src="http://assets.cozykeys.xyz/keyboards/Ergo87.jpg" alt="Ergo87">
+<a href="http://assets.cozykeys.xyz/keyboards/ergo87_1600x1200.jpg">
+    <img style="width:100%;" src="http://assets.cozykeys.xyz/keyboards/ergo87_800x600.jpg" alt="Ergo87">
 </a>
 
