@@ -6,6 +6,11 @@ navActive: "keyboards"
 categories: ["keyboard"]
 summary: "A 66 key ergonomic keyboard"
 thumbnail: "http://assets.cozykeys.xyz/images/keyboards/speedo_360x270.jpg"
+breadcrumb:
+- name: "Home"
+  path: "/"
+- name: "Keyboards"
+  path: "/keyboards/"
 ---
 
 # Speedo

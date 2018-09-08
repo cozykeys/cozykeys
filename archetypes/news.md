@@ -1,6 +1,6 @@
 ---
-title: "News"
-date: 2018-09-04T07:12:48-07:00
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 draft: true
 navActive: "news"
 breadcrumb:
@@ -8,4 +8,3 @@ breadcrumb:
   path: "/"
 ---
 
-# News

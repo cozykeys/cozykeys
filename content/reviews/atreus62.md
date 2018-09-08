@@ -3,6 +3,11 @@ title: "Atreus62 Review"
 date: 2017-12-16T17:30:00-07:00
 draft: true
 navActive: "reviews"
+breadcrumb:
+- name: "Home"
+  path: "/"
+- name: "Reviews"
+  path: "/reviews/"
 ---
 
 {{< blog_header >}}

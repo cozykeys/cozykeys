@@ -6,6 +6,11 @@ navActive: "keyboards"
 categories: ["keyboard"]
 summary: "An 87 key ergonomic keyboard"
 thumbnail: "http://assets.cozykeys.xyz/images/keyboards/bloomer_360x270.jpg"
+breadcrumb:
+- name: "Home"
+  path: "/"
+- name: "Keyboards"
+  path: "/keyboards/"
 ---
 
 # Bloomer

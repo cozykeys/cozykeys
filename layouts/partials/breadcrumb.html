@@ -1,0 +1,10 @@
+{{ if .Params.breadcrumb }}
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+
+        {{ range .Params.breadcrumb }}
+            <li class="breadcrumb-item"><a href="{{- .path -}}">{{- .name -}}</a></li>
+        {{ end }}
+      </ol>
+    </nav>
+{{ end }}

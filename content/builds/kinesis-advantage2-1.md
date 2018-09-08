@@ -2,6 +2,11 @@
 title: "Heroes of the Storm Advantage2"
 date: 2017-07-18T12:24:58-07:00
 draft: true
+breadcrumb:
+- name: "Home"
+  path: "/"
+- name: "Builds"
+  path: "/builds/"
 ---
 
 {{< blog_header >}}
