@@ -10,6 +10,8 @@ thumbnail: "http://assets.cozykeys.xyz/images/keyboards/bloomer_360x270.jpg"
 
 # Bloomer
 
+*Former names: Atreus87, Ergo87*
+
 The Bloomer is an 87-key ergonomic keyboard, inspired by the Atreus and
 Atreus62. There are a few main goals behind the keyboard listed below.
 

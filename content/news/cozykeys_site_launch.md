@@ -14,7 +14,7 @@ for the rev2 Bloomer keyboards. In this time, I decided to rethink how I'm
 sharing my content.
 
 In the past, I've written blog posts on a personal website, posted build logs
-to imgur and GitHub gists, shared photos on Reddit, and recently started
+to Imgur and GitHub gists, shared photos on Reddit, and recently started
 posting updates on Keebtalk. In summary, there has been no rhyme or reason to
 the way in which I've shared the progress on my personal projects.
 
