@@ -6,27 +6,20 @@
 
         {{- range .Pages -}}
 
-            <div class="card" style="width: 100%; margin-top: 10px; margin-bottom: 10px;">
+            <div class="card" style="width: 32rem; margin: 10px;">
+                <a href="{{- .URL -}}"><img class="card-img-top" src="{{- .Params.thumbnail -}}" alt="{{- .Title -}}"></a>
                 <div class="card-body">
                     <a href="{{- .URL -}}"><h5 class="card-title">{{- .Title -}}</h5></a>
-
-                    <div>{{- dateFormat "Monday, Jan 2, 2006" .Date -}}</div>
-
-                    <div>
-                        {{- if .Params.tags -}}
-                            <strong>Tags:</strong> 
-                            {{- range .Params.tags -}}
-                                <a href="{{- "/tags/" | relLangURL -}}{{- . | urlize -}}"> {{ . }} </a>
-                            {{- end -}}
-                        {{- end -}}
-                    </div>
-
-                    {{- if .Params.summary -}}
-                        <p class="card-text">{{- .Params.summary -}}</p>
+                    
+                    {{- if .Params.date -}}
+                        <p class="card-text text-muted">{{- dateFormat "Monday, Jan 2, 2006" .Params.date -}}</p>
                     {{- end -}}
 
-                    {{- if .Params.image -}}
-                        <img style="width:100%;" src="{{- .Params.image -}}" alt="{{- .Title -}}">
+                    <p class="card-text">{{- .Params.caption -}}</p>
+                    {{- if .Params.tags -}}
+                        <p class="card-text text-muted">
+                        {{- range .Params.tags }}<a style="margin-right: 5px;" href="/tags/{{ . }}">{{ . }}</a>{{ end -}}
+                        </p>
                     {{- end -}}
                 </div>
             </div>
