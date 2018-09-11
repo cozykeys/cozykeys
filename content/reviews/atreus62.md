@@ -2,6 +2,7 @@
 title: "Atreus62 Review"
 date: 2017-12-16T17:30:00-07:00
 draft: true
+thumbnail: "http://assets.cozykeys.xyz/images/reviews/atreus62/thumbnail_800x800.jpg"
 navActive: "reviews"
 breadcrumb:
 - name: "Home"

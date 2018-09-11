@@ -5,7 +5,7 @@ draft: true
 navActive: "keyboards"
 categories: ["keyboard"]
 summary: "An 87 key ergonomic keyboard"
-thumbnail: "http://assets.cozykeys.xyz/images/keyboards/bloomer_360x270.jpg"
+thumbnail: "http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-angle-2_800x800.jpg"
 breadcrumb:
 - name: "Home"
   path: "/"
@@ -20,9 +20,14 @@ breadcrumb:
 The Bloomer is an 87-key ergonomic keyboard, inspired by the Atreus and
 Atreus62. There are a few main goals behind the keyboard listed below.
 
-<a href="http://assets.cozykeys.xyz/images/keyboards/bloomer_1600x1200.jpg">
-    <img style="width:100%;" src="http://assets.cozykeys.xyz/images/keyboards/bloomer_800x600.jpg" alt="Bloomer">
-</a>
+{{<
+    image_link
+        imageText="Bloomer Front View"
+        imageSrc="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-front_800x800.jpg"
+        imageUrl="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-front_1600x1600.jpg"
+>}}
+
+<br />
 
 ## Easier Adaptation
 
@@ -49,7 +54,14 @@ as the user only needs to familiarize with the column-staggered keys. Lastly,
 it maintains a size very similar to a TKL keyboard as is shown in the picture
 below.
 
-TODO: Insert an image here with a comparison of a TKL to the Bloomer.
+{{<
+    image_link
+        imageText="TKL Comparison"
+        imageSrc="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-quickfire-comparison_800x800.jpg"
+        imageUrl="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-quickfire-comparison_1600x1600.jpg"
+>}}
+
+<br />
 
 ## Improved Ergonomics
 
@@ -61,8 +73,8 @@ inspired by, namely the Atreus and Atreus62.
 
 By separating the left and right halves of the keyboard and placing the
 dedicated TKL keys in the middle, the user's wrists remain in a straighter
-position. This reduces Ulnar Deviation and provides a similar benefit usually
-only seen in split keyboards.
+position. This reduces Ulnar Deviation and provides a benefit usually only seen
+in split keyboards.
 
 ### Improved Thumb Keys
 
@@ -71,8 +83,14 @@ complaint I had was the inner-most thumb keys, which I find to be uncomfortably
 placed. The Bloomer moves these keys to a spot that is much easier to press
 comfortably without moving the entire hand.
 
-TODO: Insert an image here with a comparison to the Atreus62 of width between
-key wells and thumb placement.
+{{<
+    image_link
+        imageText="TKL Comparison"
+        imageSrc="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-atreus62-comparison_800x800.jpg"
+        imageUrl="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-atreus62-comparison_1600x1600.jpg"
+>}}
+
+<br />
 
 ## Dedicated Keys
 

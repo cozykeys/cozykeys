@@ -3,6 +3,7 @@ title: "First Handwired Speedo"
 date: 2018-09-04T07:06:39-07:00
 draft: true
 navActive: "builds"
+thumbnail: "http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/09-11_07-25-28_00_800x800.jpg"
 tags: ["speedo"]
 breadcrumb:
 - name: "Home"

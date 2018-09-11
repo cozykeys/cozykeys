@@ -10,15 +10,23 @@ breadcrumb:
 
 # About
 
+## Who Am I?
+
+My name is Paul and I'm a software engineer, currently working as a tools
+programmer for the game Heroes of the Storm at Blizzard.
+
 Over the past few years, mechanical keyboards have become one of my main
-hobbies. My projects have included replacing the switches in a Kinesis
-Advantage2, building keyboards such as the Iris and Preonic from kits, and more
-recently designing and building my own custom keyboards.
+hobbies. Some of my projects up to this point have been:
 
-As a software engineer, it's been fun to tackle keyboard design problems with
-code and it's also given me the opportunity to explore electronics, which I
-only briefly learned about while going to school for computer science.
+- Modding a Kinesis Advantage2 and replacing the switches
+- Building an Iris with full LED and RGB support
+- Building a Preonic
+- Designing the Speedo hand-wired keyboard
+- Designing the Bloomer keyboard with a PCB
 
-I finally decided to create CozyKeys so that I would have a place to gather all
-of my builds, project updates, pictures, etc.
+## What is CozyKeys?
+
+CozyKeys is the brand that I have created as a way to organize my projects and
+the CozyKeys website provides a place where I can centralize and organize the
+content that I want to publish!
 

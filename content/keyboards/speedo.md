@@ -5,7 +5,7 @@ draft: true
 navActive: "keyboards"
 categories: ["keyboard"]
 summary: "A 66 key ergonomic keyboard"
-thumbnail: "http://assets.cozykeys.xyz/images/keyboards/speedo_360x270.jpg"
+thumbnail: "http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-angle_800x800.jpg"
 breadcrumb:
 - name: "Home"
   path: "/"
@@ -18,9 +18,12 @@ breadcrumb:
 The Speedo is a 66-key ergonomic keyboard. It is heavily inspired by the Atreus
 and Atreus62 but introduces a few improvements.
 
-<a href="http://assets.cozykeys.xyz/images/keyboards/speedo_1600x1200.jpg">
-    <img style="width:100%;" src="http://assets.cozykeys.xyz/images/keyboards/speedo_800x600.jpg" alt="Speedo">
-</a>
+{{<
+    image_link
+        imageText="Speedo Front View"
+        imageSrc="http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-front_800x800.jpg"
+        imageUrl="http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-front_1600x1600.jpg"
+>}}
 
 ## Thumb Clusters
 

@@ -2,6 +2,8 @@
 title: "Heroes of the Storm Advantage2"
 date: 2017-07-18T12:24:58-07:00
 draft: true
+navActive: "builds"
+thumbnail: "http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/KeyboardAndAbathur_800x600.jpg"
 tags: ["kinesis", "advantage2"]
 breadcrumb:
 - name: "Home"
