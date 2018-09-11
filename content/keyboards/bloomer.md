@@ -122,7 +122,7 @@ prefer it.
 
 ## Open Source
 
-As with all of the CozyKeys projects, the Speedo is and will remain completely
+As with all of the CozyKeys projects, the Bloomer is and will remain completely
 open source. This means that the same design files I use to get the parts
 manufactured will be available on GitHub.
 
