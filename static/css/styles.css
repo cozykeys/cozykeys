@@ -45,6 +45,12 @@
 .glyph-32 {
     font-size: 32px;
 }
+.glyph-36 {
+    font-size: 36px;
+}
+.glyph-48 {
+    font-size: 48px;
+}
 .glyph-64 {
     font-size: 64px;
 }
@@ -54,4 +60,26 @@
 .default-list-item-container {
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.home-page-component-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.home-page-component {
+    width: 22rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.home-page-component-header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 48px;
+}
+.home-page-component-title {
+    margin-bottom: 0px;
+    margin-left: 10px;
 }
