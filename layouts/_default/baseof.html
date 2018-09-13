@@ -4,24 +4,20 @@
     {{- partial "head.html" . -}}
 
     <body>
-        <div class="background-image {{ if eq .URL "/" }}home{{end}}">
-            <div class="background-overlay {{ if eq .URL "/" }}home{{end}}">
+        <div style="height: 100%;">
+        {{- partial "header.html" . -}}
 
-                {{- partial "header.html" . -}}
+        <div class="outer-content-container ">
+            <div class="content-container">
+                <div class="inner-content-container">
+                    {{- partial "breadcrumb.html" . -}}
 
-                <div class="outer-content-container ">
-                    <div class="content-container">
-                        <div class="inner-content-container">
-                            {{- partial "breadcrumb.html" . -}}
-
-                            {{- block "main" . -}}{{- end -}}
-                        </div>
-                    </div>
+                    {{- block "main" . -}}{{- end -}}
                 </div>
-
-                {{- partial "footer.html" . -}}
-
             </div>
         </div>
+        </div>
+
+        {{- partial "footer.html" . -}}
     </body>
 </html>
