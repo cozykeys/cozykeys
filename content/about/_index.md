@@ -12,8 +12,8 @@ breadcrumb:
 
 ## Who Am I?
 
-My name is Paul and I'm a software engineer, currently working as a tools
-programmer for the game Heroes of the Storm at Blizzard.
+My name is Paul and I'm a software engineer, currently working as a
+tools/automation programmer for the game Heroes of the Storm at Blizzard.
 
 Over the past few years, mechanical keyboards have become one of my main
 hobbies. Some of my projects up to this point have been:
