@@ -11,8 +11,6 @@ breadcrumb:
   path: "/news/"
 ---
 
-TODO: Add the thumbnail image
-
 {{< blog_header >}}
 
 I had a few weeks in which I was waiting for the supplies to arrive in the mail
