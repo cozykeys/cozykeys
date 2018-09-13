@@ -1,12 +1,18 @@
 html {
-  height: 100%;
+    height: 100%;
+    width: 100%;
 }
 body {
-  min-height: 100vh;
-  height: 100vh;
-  background: none;
+    background-image: url("http://assets.cozykeys.xyz/images/cozykeys-bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
 }
 .outer-navbar-container {
+    width: 100%;
 }
 .inner-navbar-container {
     display: flex;
@@ -32,7 +38,6 @@ body {
 .outer-content-container {
     display: flex;
     justify-content: center;
-    height: 100%;
     width: 100%;
 }
 .content-container {
@@ -46,12 +51,6 @@ body {
     width: 100%;
     max-width: 780px;
     margin-top: 20px;
-    max-height: 100%;
-}
-.loading-spinner-container {
-    display: flex;
-    justify-content: center;
-    width: 100%;
 }
 .navbar-icon-container {
     margin-left: 5px;
@@ -101,19 +100,8 @@ body {
     margin-bottom: 0px;
     margin-left: 10px;
 }
-html {
-    background-image: url("http://assets.cozykeys.xyz/images/cozykeys-bg.jpg");
-    background-position:center center;
-    background-repeat:no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
 .list-content-container {
-    overflow: auto;
     width: 100%;
-    height: 100%;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
