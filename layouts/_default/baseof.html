@@ -6,7 +6,7 @@
     <body>
         {{- partial "header.html" . -}}
 
-        <div class="outer-content-container ">
+        <main class="container outer-content-container">
             <div class="content-container">
                 <div class="inner-content-container">
                     {{- partial "breadcrumb.html" . -}}
@@ -14,7 +14,7 @@
                     {{- block "main" . -}}{{- end -}}
                 </div>
             </div>
-        </div>
+        </main>
 
         {{- partial "footer.html" . -}}
     </body>
