@@ -6,15 +6,13 @@
     <body>
         {{- partial "header.html" . -}}
 
-        <main class="container outer-content-container">
+        <div class="page-container">
             <div class="content-container">
-                <div class="inner-content-container">
-                    {{- partial "breadcrumb.html" . -}}
+                {{- partial "breadcrumb.html" . -}}
 
-                    {{- block "main" . -}}{{- end -}}
-                </div>
+                {{- block "main" . -}}{{- end -}}
             </div>
-        </main>
+        </div>
 
         {{- partial "footer.html" . -}}
     </body>

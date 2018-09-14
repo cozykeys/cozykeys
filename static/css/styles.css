@@ -1,11 +1,14 @@
 html {
 }
 body {
-    /*background-image: url("http://assets.cozykeys.xyz/images/cozykeys-bg-dim-85.jpg");
+    /* This black will add a background image that doesn't scroll */
+    /*
+    background-image: url("http://assets.cozykeys.xyz/images/cozykeys-bg-dim-85.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
-    background-size: cover;*/
+    background-size: cover;
+    */
 }
 .outer-navbar-container {
     width: 100%;
@@ -31,22 +34,15 @@ body {
     align-items: center;
     flex-wrap: wrap;
 }
-.outer-content-container {
+.page-container {
     display: flex;
     justify-content: center;
     width: 100%;
 }
 .content-container {
-    display: flex;
-    justify-content: center;
     width: 100%;
     max-width: 800px;
-    background-color: #222;
-}
-.inner-content-container {
-    width: 100%;
-    max-width: 780px;
-    margin-top: 20px;
+    padding: 10px;
 }
 .navbar-icon-container {
     margin-left: 5px;
@@ -81,6 +77,10 @@ body {
     flex-wrap: wrap;
 }
 .home-page-component {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     width: 18rem;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -92,6 +92,16 @@ body {
     flex-wrap: wrap;
     height: 48px;
 }
+.home-page-component-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.home-page-component-body {
+    text-align: center;
+}
 .home-page-component-title {
     margin-bottom: 0px;
     margin-left: 10px;
@@ -101,4 +111,11 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+}
+.no-margin {
+    margin: 0px;
+}
+.list-card-caption {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
