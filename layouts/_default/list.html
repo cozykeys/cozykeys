@@ -2,20 +2,21 @@
 
     {{- .Content -}}
 
-    <div style="width:100%;display:flex;justify-content:center;flex-wrap:wrap;">
+    <div class="list-content-container">
 
         {{- range .Pages -}}
 
             <div class="card" style="width: 32rem; margin: 10px;">
                 <a href="{{- .URL -}}"><img class="card-img-top" src="{{- .Params.thumbnail -}}" alt="{{- .Title -}}"></a>
                 <div class="card-body">
-                    <a href="{{- .URL -}}"><h5 class="card-title">{{- .Title -}}</h5></a>
+                    <a href="{{- .URL -}}"><h5 class="card-title no-margin">{{- .Title -}}</h5></a>
                     
                     {{- if .Params.date -}}
-                        <p class="card-text text-muted">{{- dateFormat "Monday, Jan 2, 2006" .Params.date -}}</p>
+                        <p class="card-text text-muted no-margin">{{- dateFormat "Monday, Jan 2, 2006" .Params.date -}}</p>
                     {{- end -}}
 
-                    <p class="card-text">{{- .Params.caption -}}</p>
+                    <p class="card-text list-card-caption">{{- .Params.caption -}}</p>
+
                     {{- if .Params.tags -}}
                         <p class="card-text text-muted">
                         {{- range .Params.tags }}<a style="margin-right: 5px;" href="/tags/{{ . }}">{{ . }}</a>{{ end -}}
