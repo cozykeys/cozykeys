@@ -1,7 +1,7 @@
 ---
 title: "Dactyl - Gateron Green - SA Ice Cap"
 date: 2018-09-09T11:43:01-07:00
-draft: true
+draft: false
 navActive: "gallery"
 thumbnail: "http://assets.cozykeys.xyz/images/gallery/dactyl-ice-cap-1/09-09_11-10-33_00_800x800.jpg"
 caption: "Hand-wired Dacyl with Gateron green switches and SA Ice Cap keycaps"

@@ -1,7 +1,7 @@
 ---
 title: "First Iris Build"
 date: 2018-01-24T00:00:00-07:00
-draft: true
+draft: false
 navActive: "builds"
 thumbnail: "http://assets.cozykeys.xyz/images/builds/iris-1/02-11_19-52-50_00_800x800.jpg"
 tags: ["iris"]

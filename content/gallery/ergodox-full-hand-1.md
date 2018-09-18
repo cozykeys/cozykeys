@@ -1,7 +1,7 @@
 ---
 title: "Full Hand Ergodox"
 date: 2018-09-09T12:31:23-07:00
-draft: true
+draft: false
 navActive: "gallery"
 thumbnail: "http://assets.cozykeys.xyz/images/gallery/ergodox-full-hand-1/09-09_11-16-45_00_800x800.jpg"
 caption: "Ergodox with full-hand case, Gateron brown switches, and blank PBT keycaps"

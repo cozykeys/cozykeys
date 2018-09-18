@@ -1,7 +1,7 @@
 ---
 title: "CozyKeys.xyz is Live!"
 date: 2018-09-06T21:53:53-07:00
-draft: true
+draft: false
 caption: "Explore the site and check out some of the content!"
 navActive: "news"
 breadcrumb:

@@ -1,7 +1,7 @@
 ---
 title: "Heroes of the Storm Kinesis Advantage2"
 date: 2018-09-10T21:10:26-07:00
-draft: true
+draft: false
 navActive: "gallery"
 thumbnail: "http://assets.cozykeys.xyz/images/gallery/kinesis-advantage2-1/2018-09-10_20-06-51_00_800x800.jpg"
 caption: "Modded Kinesis Advantage2 with custom DCS keycaps, hydro-dipped/laser

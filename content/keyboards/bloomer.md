@@ -1,7 +1,7 @@
 ---
 title: "Bloomer"
 date: 2018-09-04T06:40:05-07:00
-draft: true
+draft: false
 navActive: "keyboards"
 categories: ["keyboard"]
 summary: "An 87 key ergonomic keyboard"

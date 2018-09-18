@@ -1,7 +1,7 @@
 ---
 title: "Atreus62 - EnjoyPBT"
 date: 2018-09-10T21:10:26-07:00
-draft: true
+draft: false
 navActive: "gallery"
 thumbnail: "http://assets.cozykeys.xyz/images/gallery/atreus62-1/2018-09-10_20-12-49_00_800x800.jpg"
 caption: "Atreus62 with EnjoyPBT keycaps"

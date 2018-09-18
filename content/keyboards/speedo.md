@@ -1,7 +1,7 @@
 ---
 title: "Speedo"
 date: 2018-09-04T06:40:01-07:00
-draft: true
+draft: false
 navActive: "keyboards"
 categories: ["keyboard"]
 summary: "A 66 key ergonomic keyboard"
