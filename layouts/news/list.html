@@ -1,0 +1,29 @@
+{{- define "main" -}}
+
+    {{- .Content -}}
+
+    <div style="width:100%;display:flex;justify-content:center;flex-wrap:wrap;">
+
+        {{- range .Pages -}}
+
+            <div class="card" style="width: 32rem; margin: 10px;">
+                {{- if .Params.thumbnail -}}
+                    <a href="{{- .URL -}}"><img class="card-img-top" src="{{- .Params.thumbnail -}}" alt="{{- .Title -}}"></a>
+                {{- end -}}
+                <div class="card-body">
+                    <a href="{{- .URL -}}"><h5 class="card-title">{{- .Title -}}</h5></a>
+                    {{- if .Params.caption -}}
+                        <p class="card-text">{{- .Params.caption -}}</p>
+                    {{- end -}}
+
+                    {{- if .Params.date -}}
+                        <div>{{- dateFormat "Monday, Jan 2, 2006" .Date -}}</div>
+                    {{- end -}}
+                </div>
+            </div>
+
+        {{- end -}}
+
+    </div>
+
+{{- end -}}

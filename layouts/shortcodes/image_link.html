@@ -1,0 +1,19 @@
+<!-- 
+    Parameters:
+        (Required) imageText
+        (Required) imageSrc
+        (Optional) imageWidth
+        (Optional) imageHeight
+        (Optional) imageUrl
+-->
+
+<a
+    href="{{- if .Get `imageUrl` -}}{{- .Get `imageUrl` -}}{{- else -}}{{- .Get `imageSrc` -}}{{- end -}}"
+    style="height: 100%; width: 100%;">
+
+    <img
+        src="{{- .Get `imageSrc` -}}"
+        alt="{{- .Get `imageText` -}}"
+        style=" width: {{- if .Get `imageWidth` -}}{{- .Get `imageWidth` -}}{{- else -}}100%{{- end -}}; margin-top: 10px; margin-bottom: 10px;">
+
+</a>
