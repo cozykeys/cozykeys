@@ -12,11 +12,11 @@ breadcrumb:
 
 ## Who Am I?
 
-My name is Paul and I'm a software engineer, currently working as a
-tools/automation programmer for the game Heroes of the Storm at Blizzard.
+My name is Paul and I'm a software engineer, currently working as a server
+programmer for the game Heroes of the Storm at Blizzard.
 
-Over the past few years, mechanical keyboards have become one of my main
-hobbies. Some of my projects up to this point have been:
+Over the past few years, designing and building mechanical keyboards has become
+one of my main hobbies. Some of my projects up to this point have been:
 
 - Modding a Kinesis Advantage2 and replacing the switches
 - Building an Iris with full LED and RGB support
@@ -26,7 +26,6 @@ hobbies. Some of my projects up to this point have been:
 
 ## What is CozyKeys?
 
-CozyKeys is the brand that I have created as a way to organize my projects and
-the CozyKeys website provides a place where I can centralize and organize the
-content that I want to publish!
+CozyKeys is the website I've created so that I have a place to organize my
+projects and publish my content!
 
