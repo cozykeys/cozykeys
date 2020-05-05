@@ -13,7 +13,7 @@ breadcrumb:
 ## Who Am I?
 
 My name is Paul and I'm a software engineer, currently working as a server
-programmer for the game Heroes of the Storm at Blizzard.
+programmer at Blizzard.
 
 Over the past few years, designing and building mechanical keyboards has become
 one of my main hobbies. Some of my projects up to this point have been:

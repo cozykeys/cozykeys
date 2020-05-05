@@ -2,6 +2,12 @@
 
 This repository contains the source for the CozyKeys.xyz website.
 
+## Running Locally
+
+```bash
+hugo server -D
+```
+
 ## Deployment
 
 First, make sure you've cloned the repository with submodules recursively:
