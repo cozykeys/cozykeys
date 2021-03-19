@@ -10,22 +10,14 @@ breadcrumb:
 
 # About
 
-## Who Am I?
+I'm a programmer who enjoys building keyboards in my free time.
 
-My name is Paul and I'm a software engineer, currently working as a server
-programmer at Blizzard.
-
-Over the past few years, designing and building mechanical keyboards has become
-one of my main hobbies. Some of my projects up to this point have been:
-
-- Modding a Kinesis Advantage2 and replacing the switches
-- Building an Iris with full LED and RGB support
-- Building a Preonic
-- Designing the Speedo hand-wired keyboard
-- Designing the Bloomer keyboard with a PCB
-
-## What is CozyKeys?
-
-CozyKeys is the website I've created so that I have a place to organize my
+CozyKeys is the brand I've created so that I have a better way to organize my
 projects and publish my content!
 
+{{<
+    image_link
+        imageText="CozyKeys"
+        imageSrc="https://raw.githubusercontent.com/cozykeys/resources/0e9c94a65680d887fe71d7c8905569498b7d319e/assets/Cozy_Keys_color.svg"
+        imageUrl="https://raw.githubusercontent.com/cozykeys/resources/0e9c94a65680d887fe71d7c8905569498b7d319e/assets/Cozy_Keys_color.svg"
+>}}
