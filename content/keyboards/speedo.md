@@ -5,7 +5,7 @@ draft: false
 navActive: "keyboards"
 categories: ["keyboard"]
 summary: "A 66 key ergonomic keyboard"
-thumbnail: "http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-angle_800x800.jpg"
+thumbnail: "https://djo703t8kjftd.cloudfront.net/images/keyboards/speedo/speedo-angle_800x800.jpg"
 breadcrumb:
 - name: "Home"
   path: "/"
@@ -21,8 +21,8 @@ and Atreus62 but introduces a few improvements.
 {{<
     image_link
         imageText="Speedo Front View"
-        imageSrc="http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-front_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-front_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/keyboards/speedo/speedo-front_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/keyboards/speedo/speedo-front_1600x1600.jpg"
 >}}
 
 ## Thumb Clusters

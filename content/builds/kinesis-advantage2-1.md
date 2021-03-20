@@ -3,7 +3,7 @@ title: "Heroes of the Storm Advantage2"
 date: 2017-07-18T12:24:58-07:00
 draft: false
 navActive: "builds"
-thumbnail: "http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/KeyboardAndAbathur_800x600.jpg"
+thumbnail: "https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/KeyboardAndAbathur_800x600.jpg"
 tags: ["kinesis", "advantage2"]
 breadcrumb:
 - name: "Home"
@@ -20,8 +20,8 @@ This post will document my adventure of taking my favorite keyboard and modifyin
 {{< 
     image_link
         imageText="Finished Keyboard"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/KeyboardFinished_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/KeyboardFinished_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/KeyboardFinished_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/KeyboardFinished_1600x1200.jpg"
 >}}
 
 ## Background
@@ -40,16 +40,16 @@ The first step in the project was actually to order the custom keycaps. These ar
 {{<
     image_link
         imageText="Keycaps"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/Keycaps_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/Keycaps_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/Keycaps_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/Keycaps_1600x1200.jpg"
 >}}
 
 I like the DCS keycaps from SP. The surfaces aren't quite as rough as the TaiHao keycaps I have on another keyboard but they feel good. They aren't super thick either, which can be seen below, but are still much better quality than the stock ABS caps:
 {{<
     image_link
     imageText="Keycap Thickness"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/KeycapThickness_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/KeycapThickness_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/KeycapThickness_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/KeycapThickness_1600x1200.jpg"
 >}}
 
 Once those were ordered, I needed some spare Advantage2 components so I contacted tech support at Kinesis. You could theoretically just desolder the stock switches, but this would be a huge pain, especially because they are hot glued into the plates.
@@ -68,24 +68,24 @@ So, the first step was putting the diodes in the thumb cluster switches:
 {{<
     image_link
     imageText="Switches with Diodes"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/SwitchesWithDiodes_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/SwitchesWithDiodes_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/SwitchesWithDiodes_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/SwitchesWithDiodes_1600x1200.jpg"
 >}}
 
 Next was to secure all of the switches in the thumb cluster PCBs:
 {{<
     image_link
     imageText="Switchs in Thumb Cluster"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/SwitchesInThumbCluster_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/SwitchesInThumbCluster_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/SwitchesInThumbCluster_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/SwitchesInThumbCluster_1600x1200.jpg"
 >}}
 
 And finally, to solder them in and trim the diodes:
 {{<
     image_link
     imageText="Thumb Clusters Finished"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/ThumbClustersFinished_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/ThumbClustersFinished_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/ThumbClustersFinished_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/ThumbClustersFinished_1600x1200.jpg"
 >}}
 
 The thumb cluster PCBs had the ribbon cable connectors pre-soldered, which was a relief because those were actually the most frustrating part of the whole project.
@@ -97,8 +97,8 @@ I started off by putting the switches in one at a time and hot gluing them into 
 {{<
     image_link
     imageText="First Switch Inserted"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/FirstSwitchInserted_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/FirstSwitchInserted_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/FirstSwitchInserted_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/FirstSwitchInserted_1600x1200.jpg"
 >}}
 
 The glue is necessary because the switches don't sit very tightly in the plate, and due to the odd shape, not all of them snap completely into the PCB. I tried to use a liberal amount of glue so that the switches don't come lose when pulling off keycaps.
@@ -107,16 +107,16 @@ And a little while later, all switches inserted and glued into place:
 {{<
     image_link
     imageText="All Switches Inserted"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/AllSwitchesInserted_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/AllSwitchesInserted_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/AllSwitchesInserted_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/AllSwitchesInserted_1600x1200.jpg"
 >}}
 
 Now, as mentioned before, the ribbon cable connectors came pre-soldered to the thumb clusters, but not to the keywell PCBs. This was my second time soldering, and my first time in 7 years, so this part was a bit daunting for me. The connector pins are very close together:
 {{<
     image_link
     imageText="Ribbon Cable Connector"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/RibbonConnector_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/RibbonConnector_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/RibbonConnector_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/RibbonConnector_1600x1200.jpg"
 >}}
 
 Unfortunately, I forgot to take a picture of my crappy soldering job before attaching the PCB to the plate.
@@ -125,24 +125,24 @@ Anyways, after struggling my way through that, the next step was to solder the d
 {{<
     image_link
     imageText="PCB Diodes Soldered"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/PcbDiodesSoldered_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/PcbDiodesSoldered_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/PcbDiodesSoldered_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/PcbDiodesSoldered_1600x1200.jpg"
 >}}
 
 And finally, it was time to attach the PCBs. I used a few small clamps to hold the PCB to the keywell but wasn't able to take any decent pictures of the process. It wasn't easy, but the clamps definitely made it much better. Rinse and repeat until finished:
 {{<
     image_link
     imageText="PCB Soldering Finished"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/PcbSolderingFinished_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/PcbSolderingFinished_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/PcbSolderingFinished_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/PcbSolderingFinished_1600x1200.jpg"
 >}}
 
 Then admire your work and reward yourself with a good beer (Even if your soldering is terrible):
 {{<
     image_link
     imageText="All Soldering Finished"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/AllSolderingFinished_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/AllSolderingFinished_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/AllSolderingFinished_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/AllSolderingFinished_1600x1200.jpg"
 >}}
 
 I was pleased to find during testing that everything worked on the first try!
@@ -156,16 +156,16 @@ Here's a picture of the keyboard just after being dipped; notice there are still
 {{<
     image_link
     imageText="Case Just Dipped"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/CaseJustDipped_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/CaseJustDipped_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/CaseJustDipped_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/CaseJustDipped_1600x1200.jpg"
 >}}
 
 And here's a picture after the clear coat and laser engraving:
 {{<
     image_link
     imageText="Case Finished"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/CaseFinished_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/CaseFinished_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/CaseFinished_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/CaseFinished_1600x1200.jpg"
 >}}
 
 It looks and feels absolutely fantastic and I couldn't be happier with how it turned out. I'm also confident it will hold up to my sweaty palms given that this is the same finish they put on gaming controllers. If you are looking for an easy way to modify a case, I highly recommend their services!
@@ -178,16 +178,16 @@ First I measured and cut the 6 pieces of foam:
 {{<
     image_link
     imageText="Measuring and Cutting Acoustic Foam"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/CuttingFoam_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/CuttingFoam_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/CuttingFoam_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/CuttingFoam_1600x1200.jpg"
 >}}
 
 And then applied them all:
 {{<
     image_link
     imageText="Foam Applied"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/FoamApplied_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/FoamApplied_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/FoamApplied_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/FoamApplied_1600x1200.jpg"
 >}}
 
 I'm unsure of how big of a difference this actually makes, but for less than $5 it definitely doesn't hurt.
@@ -196,16 +196,16 @@ And then it was time to reconnect all of the electronics:
 {{<
     image_link
     imageText="Reconnecting Electronics"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/ReconnectingElectronics_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/ReconnectingElectronics_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/ReconnectingElectronics_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/ReconnectingElectronics_1600x1200.jpg"
 >}}
 
 And close it on up:
 {{<
     image_link
     imageText="Case Closed"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/CaseClosed_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/CaseClosed_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/CaseClosed_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/CaseClosed_1600x1200.jpg"
 >}}
 
 ### The Keycaps
@@ -213,16 +213,16 @@ Putting on the keycaps is the easy part so there's not much to say here. Here's 
 {{<
     image_link
     imageText="Keycaps On"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/BasicKeycapsOn_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/BasicKeycapsOn_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/BasicKeycapsOn_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/BasicKeycapsOn_1600x1200.jpg"
 >}}
 
 And after the finishing touches:
 {{<
     image_link
     imageText="Artisans On"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/AllDone_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/AllDone_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/AllDone_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/AllDone_1600x1200.jpg"
 >}}
 
 Ahh, there we go! The two artisans from Clackeys are awesome. They look just as cool in real life as they do in the pictures on Etsy.
@@ -238,8 +238,8 @@ And for a bonus pic, I present Pajamathur holding the keyboard:
 {{<
     image_link
     imageText="Bonus Pic"
-    imageSrc="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/KeyboardAndAbathur_800x600.jpg"
-    imageUrl="http://assets.cozykeys.xyz/images/builds/kinesis-advantage2-1/KeyboardAndAbathur_1600x1200.jpg"
+    imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/KeyboardAndAbathur_800x600.jpg"
+    imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/kinesis-advantage2-1/KeyboardAndAbathur_1600x1200.jpg"
 >}}
 
 (The epic Pajamathur cosplay was created by [@PCGamerPrincess!](https://twitter.com/pcgamerprincess))

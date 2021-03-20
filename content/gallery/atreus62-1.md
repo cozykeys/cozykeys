@@ -3,7 +3,7 @@ title: "Atreus62 - EnjoyPBT"
 date: 2018-09-10T21:10:26-07:00
 draft: false
 navActive: "gallery"
-thumbnail: "http://assets.cozykeys.xyz/images/gallery/atreus62-1/2018-09-10_20-12-49_00_800x800.jpg"
+thumbnail: "https://djo703t8kjftd.cloudfront.net/images/gallery/atreus62-1/2018-09-10_20-12-49_00_800x800.jpg"
 caption: "Atreus62 with EnjoyPBT keycaps"
 tags: ["atreus62", "enjoypbt"]
 breadcrumb:
@@ -36,14 +36,14 @@ breadcrumb:
 {{<
     image_link
         imageText="Atreus62 Front View"
-        imageSrc="http://assets.cozykeys.xyz/images/gallery/atreus62-1/2018-09-10_20-12-49_00_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/gallery/atreus62-1/2018-09-10_20-12-49_00_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/gallery/atreus62-1/2018-09-10_20-12-49_00_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/gallery/atreus62-1/2018-09-10_20-12-49_00_1600x1600.jpg"
 >}}
 
 {{<
     image_link
         imageText="Atreus62 Angle View"
-        imageSrc="http://assets.cozykeys.xyz/images/gallery/atreus62-1/2018-09-10_20-13-10_00_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/gallery/atreus62-1/2018-09-10_20-13-10_00_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/gallery/atreus62-1/2018-09-10_20-13-10_00_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/gallery/atreus62-1/2018-09-10_20-13-10_00_1600x1600.jpg"
 >}}
 

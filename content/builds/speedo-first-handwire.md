@@ -3,7 +3,7 @@ title: "First Handwired Speedo"
 date: 2018-09-04T07:06:39-07:00
 draft: false
 navActive: "builds"
-thumbnail: "http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/09-11_07-25-28_00_800x800.jpg"
+thumbnail: "https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/09-11_07-25-28_00_800x800.jpg"
 tags: ["speedo"]
 breadcrumb:
 - name: "Home"
@@ -74,8 +74,8 @@ so it would be horizontal:
 {{<
     image_link
         imageText="Switch Cutout"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_180404.png"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_180404.png"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_180404.png"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_180404.png"
 >}}
 
 I wanted to visualize what the keycaps would look like to get a better idea of
@@ -86,8 +86,8 @@ keycaps so I got the dimensions for a DCS 1u keycap from that and rounded to
 {{<
     image_link
         imageText="Keycap Dimensions"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_130655.png"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_130655.png"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_130655.png"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_130655.png"
 >}}
 
 Using those dimensions, I added the keycap overlay:
@@ -95,8 +95,8 @@ Using those dimensions, I added the keycap overlay:
 {{<
     image_link
         imageText="Keycap Overlay"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_180910.png"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_180910.png"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_180910.png"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_180910.png"
 >}}
 
 I figured the best way to get a nice arc shape for the thumb keys was to lay them out on a circle. I had to brush up on some trigonometry to remember how to get the coordinates of points on a circle:
@@ -104,8 +104,8 @@ I figured the best way to get a nice arc shape for the thumb keys was to lay the
 {{<
     image_link
         imageText="Points On A Circle"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_212426.png"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_212426.png"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_212426.png"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_212426.png"
 >}}
 
 One slight annoyance in Inkscape (Or SVG files in general?) is that the X,Y coordinates of an object are not based on the object's center but on the bottom left most point:
@@ -113,8 +113,8 @@ One slight annoyance in Inkscape (Or SVG files in general?) is that the X,Y coor
 {{<
     image_link
         imageText="Coordinate Adjustments"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_212913.png"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_212913.png"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_212913.png"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_212913.png"
 >}}
 
 Also, when an object is rotated, height and width changes as well:
@@ -122,8 +122,8 @@ Also, when an object is rotated, height and width changes as well:
 {{<
     image_link
         imageText="Diameter Adjustments"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_213316.png"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_213316.png"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_213316.png"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_213316.png"
 >}}
 
 These aren't a big deal we can easily get the adjusted values with a few simple equations:
@@ -131,8 +131,8 @@ These aren't a big deal we can easily get the adjusted values with a few simple 
 {{<
     image_link
         imageText="Adjustment Equations"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_213556.png"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_213556.png"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_213556.png"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_213556.png"
 >}}
 
 The last step was finding a suitable value for *r*. I could have done some more math and come up with a radius based on the distance between the closest corners of each keycap; however, that seemed like more work than doing a little bit of trial and error.
@@ -146,8 +146,8 @@ The final product:
 {{<
     image_link
         imageText="Final Switch Generation"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_214239.png"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_214239.png"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_214239.png"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_214239.png"
 >}}
 
 After that I just had to paste the thumb clust back on the original board. I lined up the first key using the same spacing that the existing keys on the board used and then redesigned the bottom of the case to accomodate the additional real estate.
@@ -159,12 +159,12 @@ The first revision:
 {{<
     image_link
         imageText="Revision 1"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/rev1_speedo_plates.png"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/rev1_speedo_plates.png"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/rev1_speedo_plates.png"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/rev1_speedo_plates.png"
 >}}
 
 
-[keycap overlay]: http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180216_180910.png "Keycap Overlay"
+[keycap overlay]: https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180216_180910.png "Keycap Overlay"
 
 <a name="2018-02-23" aria-hidden="true"></a>
 # 02/23/2018
@@ -182,22 +182,22 @@ plates:
 {{<
     image_link
         imageText="Photo 1"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/02-22_20-41-48_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/02-22_20-41-48_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/02-22_20-41-48_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/02-22_20-41-48_00_1600x1200.jpg"
 >}}
 
 {{<
     image_link
         imageText="Photo 2"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/02-22_20-41-59_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/02-22_20-41-59_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/02-22_20-41-59_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/02-22_20-41-59_00_1600x1200.jpg"
 >}}
 
 {{<
     image_link
         imageText="Photo 3"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/02-22_20-42-02_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/02-22_20-42-02_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/02-22_20-42-02_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/02-22_20-42-02_00_1600x1200.jpg"
 >}}
 
 ## Oops
@@ -211,8 +211,8 @@ It's more obvious in this picture I took in front of my monitor:
 {{<
     image_link
         imageText="Photo 4"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/02-22_23-37-54_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/02-22_23-37-54_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/02-22_23-37-54_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/02-22_23-37-54_00_1600x1200.jpg"
 >}}
 
 ## Solution
@@ -272,8 +272,8 @@ keys would fit:
 {{<
     image_link
         imageText="Photo 1"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180225_205717.png"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/20180225_205717.png"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180225_205717.png"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/20180225_205717.png"
 >}}
 
 *I took that screenshot before I fixed the alignment so the final version is
@@ -293,8 +293,8 @@ The final product:
 {{<
     image_link
         imageText="Photo 2"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/rev2_speedo_plates.png"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/rev2_speedo_plates.png"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/rev2_speedo_plates.png"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/rev2_speedo_plates.png"
 >}}
 
 I'm hoping that this one feels good enough to settle on. Ideally I will use
@@ -331,8 +331,8 @@ sells compatible keycaps and the quality leaves much to be desired. I ordered
 {{<
     image_link
         imageText="Keycap Blemishes"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/blemishes_600x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/blemishes_1200x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/blemishes_600x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/blemishes_1200x1600.jpg"
 >}}
 
 ### A Close Second
@@ -345,8 +345,8 @@ like:
 {{<
     image_link
         imageText="Pennine Speedo Keycaps"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/PennineSpeedoKeycaps.png"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/PennineSpeedoKeycaps.png"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/PennineSpeedoKeycaps.png"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/PennineSpeedoKeycaps.png"
 >}}
 
 Link:
@@ -369,8 +369,8 @@ My low-profile keycaps and Kailh choc red switches arrived so I should now have 
 {{<
     image_link
         imageText="The parts"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-07_18-50-03_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-07_18-50-03_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-07_18-50-03_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-07_18-50-03_00_1600x1200.jpg"
 >}}
 
 
@@ -386,15 +386,15 @@ First step was putting the switches into the plate:
 {{<
     image_link
         imageText="Switches Inserted (Top)"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_09-21-37_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_09-21-37_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_09-21-37_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_09-21-37_00_1600x1200.jpg"
 >}}
 
 {{<
     image_link
         imageText="Switches Inserted (Bottom)"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_09-21-47_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_09-21-47_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_09-21-47_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_09-21-47_00_1600x1200.jpg"
 >}}
 
 ### Gluing the Switches in Place
@@ -404,15 +404,15 @@ Next was to hot glue the switches in place. Because the switches wouldn't be PCB
 {{<
     image_link
         imageText="Switches Glued (Top)"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_09-59-07_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_09-59-07_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_09-59-07_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_09-59-07_00_1600x1200.jpg"
 >}}
 
 {{<
     image_link
         imageText="Switches Glued (Bottom)"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_09-59-21_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_09-59-21_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_09-59-21_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_09-59-21_00_1600x1200.jpg"
 >}}
 
 ### Soldering the Diodes
@@ -426,15 +426,15 @@ So, first thing I did was create little loops in each diode and place them on th
 {{<
     image_link
         imageText="Diode Loop"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_16-28-28_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_16-28-28_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_16-28-28_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_16-28-28_00_1600x1200.jpg"
 >}}
 
 {{<
     image_link
         imageText="Diodes Placed"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_17-50-18_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_17-50-18_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_17-50-18_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_17-50-18_00_1600x1200.jpg"
 >}}
 
 And then I soldered them.
@@ -442,8 +442,8 @@ And then I soldered them.
 {{<
     image_link
         imageText="Diodes Soldered"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_18-29-09_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_18-29-09_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_18-29-09_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-10_18-29-09_00_1600x1200.jpg"
 >}}
 
 I ended the day with all of the diodes soldered but didn't want to get started on the rows yet.
@@ -463,8 +463,8 @@ Then, following the advice in the guide, I looped each diode pin around the stri
 {{<
     image_link
         imageText="First Row"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-11_11-46-35_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-11_11-46-35_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-11_11-46-35_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-11_11-46-35_00_1600x1200.jpg"
 >}}
 
 Rinse repeat:
@@ -472,8 +472,8 @@ Rinse repeat:
 {{<
     image_link
         imageText="Three Rows"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-11_13-04-02_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-11_13-04-02_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-11_13-04-02_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-11_13-04-02_00_1600x1200.jpg"
 >}}
 
 And again...
@@ -481,8 +481,8 @@ And again...
 {{<
     image_link
         imageText="Four Rows"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-11_13-30-43_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-11_13-30-43_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-11_13-30-43_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-11_13-30-43_00_1600x1200.jpg"
 >}}
 
 Ah, finally.
@@ -490,8 +490,8 @@ Ah, finally.
 {{<
     image_link
         imageText="Five Rows"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-11_13-53-41_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-11_13-53-41_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-11_13-53-41_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-11_13-53-41_00_1600x1200.jpg"
 >}}
 
 ### Columns
@@ -503,8 +503,8 @@ I created the first loop on one end and soldered that to the top switch in the c
 {{<
     image_link
         imageText="Column Closeup"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-11_14-34-20_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-11_14-34-20_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-11_14-34-20_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-11_14-34-20_00_1600x1200.jpg"
 >}}
 
 I only made it through 3 columns before deciding to call it a day. Making the loops for both the rows and columns is an ultra-tedious pain in the ass.
@@ -512,8 +512,8 @@ I only made it through 3 columns before deciding to call it a day. Making the lo
 {{<
     image_link
         imageText="Done for the Day"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-11_14-34-10_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-11_14-34-10_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-11_14-34-10_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-11_14-34-10_00_1600x1200.jpg"
 >}}
 
 
@@ -529,8 +529,8 @@ Not much to say other than that I continued on the columns. As previously mentio
 {{<
     image_link
         imageText="Progress"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-13_20-50-48_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-13_20-50-48_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-13_20-50-48_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-13_20-50-48_00_1600x1200.jpg"
 >}}
 
 For the most part I enjoy the building process but this particular task was definitely a test of my patience.
@@ -548,8 +548,8 @@ I finished up the columns and decided on how I wanted to wire up the middle keys
 {{<
     image_link
         imageText="Progress"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-14_19-24-58_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-14_19-24-58_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-14_19-24-58_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-14_19-24-58_00_1600x1200.jpg"
 >}}
 
 
@@ -565,8 +565,8 @@ The final step of attaching the controller was upon me so I started wiring up th
 {{<
     image_link
         imageText="The First Few Columns"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-28_19-36-13_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-28_19-36-13_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-28_19-36-13_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-28_19-36-13_00_1600x1200.jpg"
 >}}
 
 ### The Accident
@@ -578,8 +578,8 @@ I couldn't keep my hand steady enough and I accidentally got solder on the pins 
 {{<
     image_link
         imageText="The Accident"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-28_20-02-41_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-28_20-02-41_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-28_20-02-41_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/03-28_20-02-41_00_1600x1200.jpg"
 >}}
 
 Trying to use a solder sucker to clean it up didn't help and I ended up just spreading it around even more.
@@ -605,8 +605,8 @@ I forgot to take pictures during this process, but this is the end result:
 {{<
     image_link
         imageText="Controller"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/04-02_22-28-01_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/04-02_22-28-01_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/04-02_22-28-01_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/04-02_22-28-01_00_1600x1200.jpg"
 >}}
 
 Soldering on the bottom side of the chip let me worry less about other electrical components in close proximity to the solder joints.
@@ -630,8 +630,8 @@ Then I wrapped it in a loop around the joint and soldered.
 {{<
     image_link
         imageText="Rows"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/04-03_18-33-39_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/04-03_18-33-39_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/04-03_18-33-39_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/04-03_18-33-39_00_1600x1200.jpg"
 >}}
 
 ### Connecting the Columns
@@ -643,8 +643,8 @@ First 6 columns:
 {{<
     image_link
         imageText="First Six Columns"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/04-03_19-00-47_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/04-03_19-00-47_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/04-03_19-00-47_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/04-03_19-00-47_00_1600x1200.jpg"
 >}}
 
 Then the rest:
@@ -652,8 +652,8 @@ Then the rest:
 {{<
     image_link
         imageText="All Columns"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/04-03_20-33-18_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/04-03_20-33-18_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/04-03_20-33-18_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/04-03_20-33-18_00_1600x1200.jpg"
 >}}
 
 Holy shit I'm finally done soldering:
@@ -661,8 +661,8 @@ Holy shit I'm finally done soldering:
 {{<
     image_link
         imageText="Done Soldering"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/04-03_20-33-25_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/04-03_20-33-25_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/04-03_20-33-25_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/04-03_20-33-25_00_1600x1200.jpg"
 >}}
 
 ### Keycaps and Firmware
@@ -672,7 +672,7 @@ Finally I put keycaps on and set up some initial firmware.
 {{<
     image_link
         imageText="Keycaps"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/04-03_23-09-56_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/04-03_23-09-56_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/04-03_23-09-56_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/speedo-first-handwire/04-03_23-09-56_00_1600x1200.jpg"
 >}}
 

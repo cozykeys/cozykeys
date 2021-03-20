@@ -5,7 +5,7 @@ draft: false
 navActive: "keyboards"
 categories: ["keyboard"]
 summary: "An 87 key ergonomic keyboard"
-thumbnail: "http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-angle-2_800x800.jpg"
+thumbnail: "https://djo703t8kjftd.cloudfront.net/images/keyboards/bloomer/bloomer-angle-2_800x800.jpg"
 breadcrumb:
 - name: "Home"
   path: "/"
@@ -23,8 +23,8 @@ Atreus62. There are a few main goals behind the keyboard listed below.
 {{<
     image_link
         imageText="Bloomer Front View"
-        imageSrc="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-front_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-front_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/keyboards/bloomer/bloomer-front_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/keyboards/bloomer/bloomer-front_1600x1600.jpg"
 >}}
 
 <br />
@@ -57,8 +57,8 @@ below.
 {{<
     image_link
         imageText="TKL Comparison"
-        imageSrc="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-quickfire-comparison_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-quickfire-comparison_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/keyboards/bloomer/bloomer-quickfire-comparison_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/keyboards/bloomer/bloomer-quickfire-comparison_1600x1600.jpg"
 >}}
 
 <br />
@@ -86,8 +86,8 @@ comfortably without moving the entire hand.
 {{<
     image_link
         imageText="TKL Comparison"
-        imageSrc="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-atreus62-comparison_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-atreus62-comparison_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/keyboards/bloomer/bloomer-atreus62-comparison_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/keyboards/bloomer/bloomer-atreus62-comparison_1600x1600.jpg"
 >}}
 
 <br />

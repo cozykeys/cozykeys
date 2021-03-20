@@ -3,7 +3,7 @@ title: "First Hand-Wired Bloomer"
 date: 2018-09-04T07:06:51-07:00
 draft: false
 navActive: "builds"
-thumbnail: "http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/09-09_12-43-31_00_800x800.jpg"
+thumbnail: "https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/09-09_12-43-31_00_800x800.jpg"
 tags: ["bloomer"]
 breadcrumb:
 - name: "Home"
@@ -24,8 +24,8 @@ sure the layout is comfortable.
 {{<
     image_link
         imageText="Front View"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-01_15-38-56_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-01_15-38-56_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-01_15-38-56_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-01_15-38-56_00_1600x1200.jpg"
 >}}
 
 Here's another angle showing the thumb key profiles.
@@ -33,8 +33,8 @@ Here's another angle showing the thumb key profiles.
 {{<
     image_link
         imageText="Thumb Profiles"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-01_15-39-05_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-01_15-39-05_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-01_15-39-05_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-01_15-39-05_00_1600x1200.jpg"
 >}}
 
 I chose to go with GMK Iris as it has R0 and R5 profiles in the top and bottom
@@ -44,8 +44,8 @@ from the number keys, and it does.
 {{<
     image_link
         imageText="Profile"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-01_15-39-35_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-01_15-39-35_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-01_15-39-35_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-01_15-39-35_00_1600x1200.jpg"
 >}}
 
 ## Soldering the Components
@@ -57,8 +57,8 @@ myself from the extremely tedious task of hand-wiring with some eSports.
 {{<
     image_link
         imageText="Workspace Setup"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-14_10-48-03_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-14_10-48-03_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-14_10-48-03_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-14_10-48-03_00_1600x1200.jpg"
 >}}
 
 This is the keyboard with all of the diodes soldered.
@@ -66,8 +66,8 @@ This is the keyboard with all of the diodes soldered.
 {{<
     image_link
         imageText="Diodes Soldered"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-14_15-37-23_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-14_15-37-23_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-14_15-37-23_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-14_15-37-23_00_1600x1200.jpg"
 >}}
 
 I didn't take many pictures of the rest of the soldering and the few that I did
@@ -85,8 +85,8 @@ switches.
 {{<
     image_link
         imageText="Swiss Helper"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-15_20-48-55_00_600x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-15_20-48-55_00_1200x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-15_20-48-55_00_600x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-15_20-48-55_00_1200x1600.jpg"
 >}}
 
 Unfortunately, this one was likely defective as I fumbled with trying to get
@@ -112,8 +112,8 @@ the wires.
 {{<
     image_link
         imageText="Teensy"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-15_23-10-35_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-15_23-10-35_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-15_23-10-35_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-15_23-10-35_00_1600x1200.jpg"
 >}}
 
 Welp, this was a mistake...
@@ -126,8 +126,8 @@ creation so I tried combining multiple spacers, which actually worked.
 {{<
     image_link
         imageText="Functional Enough for Firmware"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-15_23-11-10_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-15_23-11-10_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-15_23-11-10_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-15_23-11-10_00_1600x1200.jpg"
 >}}
 
 
@@ -144,8 +144,8 @@ For the second time, I begrudgingly desoldered the controller.
 {{<
     image_link
         imageText="Desoldered Controller"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-15_24-48-55_00_600x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/07-15_24-48-55_00_1200x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-15_24-48-55_00_600x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/07-15_24-48-55_00_1200x1600.jpg"
 >}}
 
 I had to resize all of the wires on one half to reach the new controller
@@ -166,15 +166,15 @@ the keyboard that I would go on to use as my daily driver for a while.
 {{<
     image_link
         imageText="A Functional Mess"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/09-09_12-43-31_00_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/09-09_12-43-31_00_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/09-09_12-43-31_00_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/09-09_12-43-31_00_1600x1600.jpg"
 >}}
 
 {{<
     image_link
         imageText="The End Result"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/09-09_12-43-48_00_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/bloomer-first-handwire/09-09_12-43-48_00_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/09-09_12-43-48_00_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/bloomer-first-handwire/09-09_12-43-48_00_1600x1600.jpg"
 >}}
 
 *I've since designed a PCB which has made subsequent builds far simpler.*

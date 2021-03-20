@@ -3,7 +3,7 @@ title: "Cooler Master Quickfire - Tai Hao Sunshine"
 date: 2018-09-10T21:10:26-07:00
 draft: false
 navActive: "gallery"
-thumbnail: "http://assets.cozykeys.xyz/images/gallery/quickfire-1/2018-09-10_20-16-31_00_800x800.jpg"
+thumbnail: "https://djo703t8kjftd.cloudfront.net/images/gallery/quickfire-1/2018-09-10_20-16-31_00_800x800.jpg"
 caption: "Cooler Master Quickfire TKL with Tai Hao Sunshine keycaps"
 tags: ["cooler master", "tai hao", "tkl"]
 breadcrumb:
@@ -35,14 +35,14 @@ breadcrumb:
 {{<
     image_link
         imageText="QuickFire Angle View"
-        imageSrc="http://assets.cozykeys.xyz/images/gallery/quickfire-1/2018-09-10_20-16-31_00_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/gallery/quickfire-1/2018-09-10_20-16-31_00_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/gallery/quickfire-1/2018-09-10_20-16-31_00_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/gallery/quickfire-1/2018-09-10_20-16-31_00_1600x1600.jpg"
 >}}
 
 {{<
     image_link
         imageText="QuickFire Front View"
-        imageSrc="http://assets.cozykeys.xyz/images/gallery/quickfire-1/2018-09-10_20-17-52_00_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/gallery/quickfire-1/2018-09-10_20-17-52_00_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/gallery/quickfire-1/2018-09-10_20-17-52_00_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/gallery/quickfire-1/2018-09-10_20-17-52_00_1600x1600.jpg"
 >}}
 

@@ -3,7 +3,7 @@ title: "Full Hand Ergodox"
 date: 2018-09-09T12:31:23-07:00
 draft: false
 navActive: "gallery"
-thumbnail: "http://assets.cozykeys.xyz/images/gallery/ergodox-full-hand-1/09-09_11-16-45_00_800x800.jpg"
+thumbnail: "https://djo703t8kjftd.cloudfront.net/images/gallery/ergodox-full-hand-1/09-09_11-16-45_00_800x800.jpg"
 caption: "Ergodox with full-hand case, Gateron brown switches, and blank PBT keycaps"
 tags: ["ergodox", "cherry"]
 breadcrumb:
@@ -35,28 +35,28 @@ breadcrumb:
 {{<
     image_link
         imageText="Full Hand Ergodox"
-        imageSrc="http://assets.cozykeys.xyz/images/gallery/ergodox-full-hand-1/09-09_11-16-45_00_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/gallery/ergodox-full-hand-1/09-09_11-16-45_00_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/gallery/ergodox-full-hand-1/09-09_11-16-45_00_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/gallery/ergodox-full-hand-1/09-09_11-16-45_00_1600x1600.jpg"
 >}}
 
 {{<
     image_link
         imageText="Ergodox Left Side"
-        imageSrc="http://assets.cozykeys.xyz/images/gallery/ergodox-full-hand-1/09-09_11-17-09_00_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/gallery/ergodox-full-hand-1/09-09_11-17-09_00_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/gallery/ergodox-full-hand-1/09-09_11-17-09_00_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/gallery/ergodox-full-hand-1/09-09_11-17-09_00_1600x1600.jpg"
 >}}
 
 {{<
     image_link
         imageText="Ergodox Right Side"
-        imageSrc="http://assets.cozykeys.xyz/images/gallery/ergodox-full-hand-1/09-09_11-17-27_00_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/gallery/ergodox-full-hand-1/09-09_11-17-27_00_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/gallery/ergodox-full-hand-1/09-09_11-17-27_00_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/gallery/ergodox-full-hand-1/09-09_11-17-27_00_1600x1600.jpg"
 >}}
 
 {{<
     image_link
         imageText="Full Hand Ergodox"
-        imageSrc="http://assets.cozykeys.xyz/images/gallery/ergodox-full-hand-1/09-09_11-18-13_00_800x800.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/gallery/ergodox-full-hand-1/09-09_11-18-13_00_1600x1600.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/gallery/ergodox-full-hand-1/09-09_11-18-13_00_800x800.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/gallery/ergodox-full-hand-1/09-09_11-18-13_00_1600x1600.jpg"
 >}}
 

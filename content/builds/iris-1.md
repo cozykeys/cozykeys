@@ -3,7 +3,7 @@ title: "First Iris Build"
 date: 2018-01-24T00:00:00-07:00
 draft: false
 navActive: "builds"
-thumbnail: "http://assets.cozykeys.xyz/images/builds/iris-1/02-11_19-52-50_00_800x800.jpg"
+thumbnail: "https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_19-52-50_00_800x800.jpg"
 tags: ["iris"]
 breadcrumb:
 - name: "Home"
@@ -35,8 +35,8 @@ The keycaps are just SA profile blanks from SP in the best colors that were avai
 {{<
     image_link
         imageText="Keycaps"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/01-25_13-14-43_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/01-25_13-14-43_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/01-25_13-14-43_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/01-25_13-14-43_00_1600x1200.jpg"
 >}}
 
 ## Friday 01/26/2018
@@ -60,15 +60,15 @@ burn marks and one side with printed text on it:
 {{<
     image_link
         imageText="Burn Marks"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/01-26_18-52-05_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/01-26_18-52-05_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/01-26_18-52-05_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/01-26_18-52-05_00_1600x1200.jpg"
 >}}
 
 {{<
     image_link
         imageText="Perspex"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/01-26_19-12-07_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/01-26_19-12-07_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/01-26_19-12-07_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/01-26_19-12-07_00_1600x1200.jpg"
 >}}
 
 After closer examination, I realized that both sides actually have an adhesive
@@ -82,16 +82,16 @@ Here's what the pieces look like after being popped out of their sheets:
 {{<
     image_link
         imageText="Case Pieces"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/01-26_19-08-45_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/01-26_19-08-45_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/01-26_19-08-45_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/01-26_19-08-45_00_1600x1200.jpg"
 >}}
 
 And after removing all of the adhesive and organizing the pieces into separate bags:
 {{<
     image_link
         imageText="Pieces Organized"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/01-26_22-39-40_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/01-26_22-39-40_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/01-26_22-39-40_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/01-26_22-39-40_00_1600x1200.jpg"
 >}}
 
 ## Thursday 02/01/2018
@@ -121,15 +121,15 @@ do:
 {{<
     image_link
         imageText="Lining Up Case Pieces"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-04_15-08-58_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-04_15-08-58_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-04_15-08-58_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-04_15-08-58_00_1600x1200.jpg"
 >}}
 
 {{<
     image_link
         imageText="Case Pieces Lined Up"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-04_15-09-07_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-04_15-09-07_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-04_15-09-07_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-04_15-09-07_00_1600x1200.jpg"
 >}}
 
 
@@ -147,8 +147,8 @@ soldering tools and straightened up my work area:
 {{<
     image_link
         imageText="Work Area"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-06_06-37-31_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-06_06-37-31_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-06_06-37-31_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-06_06-37-31_00_1600x1200.jpg"
 >}}
 
 I started on the TRRS jacks. I had to use electrical tape to keep them in place
@@ -165,8 +165,8 @@ PCB. I soldered all of them and then did the same for the other side.
 {{<
     image_link
         imageText="Diodes Soldered"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-06_08-29-22_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-06_08-29-22_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-06_08-29-22_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-06_08-29-22_00_1600x1200.jpg"
 >}}
 
 I still need to clip the diode legs but I'll get to that when I continue on the
@@ -190,8 +190,8 @@ First thing I had to do was clip the diode legs which I didn't do yesterday:
 {{<
     image_link
         imageText="Diodes Clipped"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_06-58-56_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_06-58-56_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_06-58-56_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_06-58-56_00_1600x1200.jpg"
 >}}
 
 I added the I2C resistors first which is pretty straight forward; I put them on
@@ -200,8 +200,8 @@ the left half.
 {{<
     image_link
         imageText="I2C Resistors"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_07-00-58_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_07-00-58_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_07-00-58_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_07-00-58_00_1600x1200.jpg"
 >}}
 
 The MOSFET went on pretty easily on the left half but was a pain in the balls
@@ -214,22 +214,22 @@ process:
 {{<
     image_link
         imageText="Mosfet Pre-Solder"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_07-10-11_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_07-10-11_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_07-10-11_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_07-10-11_00_1600x1200.jpg"
 >}}
 
 {{<
     image_link
         imageText="Mosfet Mid-Solder"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_07-11-50_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_07-11-50_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_07-11-50_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_07-11-50_00_1600x1200.jpg"
 >}}
 
 {{<
     image_link
         imageText="Mosfet Post-Solder"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_07-14-41_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_07-14-41_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_07-14-41_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_07-14-41_00_1600x1200.jpg"
 >}}
 
 Lastly, I added the LED support resistors which wasn't too bad:
@@ -237,8 +237,8 @@ Lastly, I added the LED support resistors which wasn't too bad:
 {{<
     image_link
         imageText="LED Support Resistors"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_07-20-57_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_07-20-57_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_07-20-57_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_07-20-57_00_1600x1200.jpg"
 >}}
 
 I was going to move on to the switch LED resistors until I realized that the
@@ -247,8 +247,8 @@ I was going to move on to the switch LED resistors until I realized that the
 {{<
     image_link
         imageText="Resistor Too Big"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_07-39-43_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-07_07-39-43_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_07-39-43_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-07_07-39-43_00_1600x1200.jpg"
 >}}
 
 ## Sunday 02/11/2018
@@ -267,8 +267,8 @@ So, I got set up with some HGC playing on my Kindle:
 {{<
     image_link
         imageText="hgc setup"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_10-03-47_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_10-03-47_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_10-03-47_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_10-03-47_00_1600x1200.jpg"
 >}}
 
 The first order of business was adding the switch LED resistors. These were
@@ -277,14 +277,14 @@ pretty straight forward:
 {{<
     image_link
         imageText="led resistors top view"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_10-49-38_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_10-49-38_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_10-49-38_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_10-49-38_00_1600x1200.jpg"
 >}}
 {{<
     image_link
         imageText="led resistors bottom view"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_10-49-46_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_10-49-46_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_10-49-46_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_10-49-46_00_1600x1200.jpg"
 >}}
 
 Next up I mounted the Pro Micro header pins:
@@ -292,14 +292,14 @@ Next up I mounted the Pro Micro header pins:
 {{<
     image_link
         imageText="controller header pins top view"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_11-43-57_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_11-43-57_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_11-43-57_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_11-43-57_00_1600x1200.jpg"
 >}}
 {{<
     image_link
         imageText="controller header pins bottom view"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_11-44-02_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_11-44-02_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_11-44-02_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_11-44-02_00_1600x1200.jpg"
 >}}
 
 I read in the guide that you should flash the controllers first just in case they're faulty so I went inside to do that. Of course in doing so I got a migraine... I took some Ibuprofen, slept for a few hours, and thankfully it passed rather quickly. 
@@ -312,8 +312,8 @@ I started lining up the switches and hot gluing them into place. Given that the 
 {{<
     image_link
         imageText="glued switches"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_24-10-38_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_24-10-38_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_24-10-38_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_24-10-38_00_1600x1200.jpg"
 >}}
 
 So, with the switches all glued in place, I put the LEDs on the PCB and carefully lined up the switches so that they would sit on top of the LEDs:
@@ -321,8 +321,8 @@ So, with the switches all glued in place, I put the LEDs on the PCB and carefull
 {{<
     image_link
         imageText="lining up the leds"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_16-29-49_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_16-29-49_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_16-29-49_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_16-29-49_00_1600x1200.jpg"
 >}}
 
 Finally, I clamped everything down to ensure it stayed lined up and as compact as possible while I started soldering:
@@ -330,8 +330,8 @@ Finally, I clamped everything down to ensure it stayed lined up and as compact a
 {{<
     image_link
         imageText="plate clamped"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_16-38-14_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_16-38-14_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_16-38-14_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_16-38-14_00_1600x1200.jpg"
 >}}
 
 
@@ -340,8 +340,8 @@ Next, I soldered the first Pro Micro. This was the easy one because I didn't rem
 {{<
     image_link
         imageText="easy pro micro"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_17-58-34_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_17-58-34_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_17-58-34_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_17-58-34_00_1600x1200.jpg"
 >}}
 
 The other Pro Micro was actually a giant pain in the ass. I did remove the plastic spacers from the header pins this time which was not fun and bent the pins out of shape. After readjusting the pins so the controller would fit, I came across another problem. When I soldered the pins, the solder at the bottom of the pin on the PCB would actually melt and the pin would come loose. For several of the pins I had to add some soler to the tip of my iron and then hold the pin with tweezers while soldering. It did work but this was probably the worst part of the whole build:
@@ -349,8 +349,8 @@ The other Pro Micro was actually a giant pain in the ass. I did remove the plast
 {{<
     image_link
         imageText="hard pro micro"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_18-15-57_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_18-15-57_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_18-15-57_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_18-15-57_00_1600x1200.jpg"
 >}}
 
 Lastly, I added the RGB strip for underglow:
@@ -358,8 +358,8 @@ Lastly, I added the RGB strip for underglow:
 {{<
     image_link
         imageText="rgb underglow"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_19-16-43_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_19-16-43_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_19-16-43_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_19-16-43_00_1600x1200.jpg"
 >}}
 
 This part was pretty simple which was refreshing after the controller shenanigans. I employed a similar technique I used for the MOSFET component where I would tin the pads on the RGB strip with solder. Then all I had to do was bring the tip of the wire to the pad and heat it up.
@@ -369,7 +369,7 @@ And the best part of the whole thing was plugging it in and having it just work!
 {{<
     image_link
         imageText="smoke test"
-        imageSrc="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_19-52-50_00_800x600.jpg"
-        imageUrl="http://assets.cozykeys.xyz/images/builds/iris-1/02-11_19-52-50_00_1600x1200.jpg"
+        imageSrc="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_19-52-50_00_800x600.jpg"
+        imageUrl="https://djo703t8kjftd.cloudfront.net/images/builds/iris-1/02-11_19-52-50_00_1600x1200.jpg"
 >}}
 
