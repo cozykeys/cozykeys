@@ -1,26 +1,36 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
-# If a command fails then the deploy stops
-set -e
+function yell () { >&2 echo "$*";  }
+function die () { yell "$*"; exit 1; }
+function try () { "$@" || die "Command failed: $*"; }
+
+script_path="$( realpath "$0" )"
+script_dir="$( dirname "$script_path" )"
+
+build_dir="$script_dir/build"
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
-# Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+# Build the project
+try hugo
 
-# Go To Public folder
-cd public
+# Remove existing build directory
+try rm -rf "$build_dir"
 
-# Add changes to git.
+# Clone into the build directory
+try mkdir -p "$build_dir"
+try git clone "git@github.com:cozykeys/cozykeys.github.io.git" \
+    "$build_dir/cozykeys.github.io"
+
+# Copy files over
+try cp -r public/* "$build_dir/cozykeys.github.io"
+
+# Commit and push changes
+cd "$build_dir/cozykeys.github.io"
 git add .
-
-# Commit changes.
-msg="rebuilding site $(date)"
-if [ -n "$*" ]; then
-	msg="$*"
+msg="Publish site `date`"
+if [ $# -eq 1 ]
+  then msg="$1"
 fi
-git commit -m "$msg"
-
-# Push source and build repos.
-git push origin master
-
+try git commit -m "$msg"
+try git push origin master
